@@ -1,0 +1,12 @@
+.table  thead tr
+{
+   
+    background-color: teal !important;
+}
+
+.table
+{
+    --bs-table-bg:transparent;
+    --bs-border-color:#000
+}
+
